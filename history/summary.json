@@ -22,19 +22,19 @@
     "url": "https://production:getshitdone@api.companion.scaler.com/api/docs",
     "icon": "https://icons.duckduckgo.com/ip3/api.companion.scaler.com.ico",
     "slug": "companion-backend",
-    "status": "down",
-    "uptime": "24.21%",
-    "uptimeDay": "24.21%",
-    "uptimeWeek": "24.21%",
-    "uptimeMonth": "24.21%",
-    "uptimeYear": "24.21%",
-    "time": 780,
-    "timeDay": 780,
-    "timeWeek": 780,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "status": "up",
+    "uptime": "15.77%",
+    "uptimeDay": "15.77%",
+    "uptimeWeek": "15.77%",
+    "uptimeMonth": "15.77%",
+    "uptimeYear": "15.77%",
+    "time": 786,
+    "timeDay": 786,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-08-20": 22
+      "2025-08-20": 38
     }
   }
 ]
