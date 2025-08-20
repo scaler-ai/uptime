@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.companion.scaler.com.ico",
     "slug": "companion-backend",
     "status": "down",
-    "uptime": "27.92%",
-    "uptimeDay": "27.92%",
-    "uptimeWeek": "27.92%",
-    "uptimeMonth": "27.92%",
-    "uptimeYear": "27.92%",
+    "uptime": "27.46%",
+    "uptimeDay": "27.46%",
+    "uptimeWeek": "27.46%",
+    "uptimeMonth": "27.46%",
+    "uptimeYear": "27.46%",
     "time": 774,
     "timeDay": 774,
     "timeWeek": 774,
     "timeMonth": 774,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2025-08-20": 335
+      "2025-08-20": 343
     }
   }
 ]
