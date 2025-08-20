@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.companion.scaler.com.ico",
     "slug": "companion-backend",
     "status": "down",
-    "uptime": "17.44%",
-    "uptimeDay": "17.44%",
-    "uptimeWeek": "17.44%",
-    "uptimeMonth": "17.44%",
-    "uptimeYear": "17.44%",
-    "time": 762,
-    "timeDay": 762,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-08-20": 0
+      "2025-08-20": 3
     }
   }
 ]
