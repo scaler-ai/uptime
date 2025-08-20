@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://ibpublicimages.s3.us-west-2.amazonaws.com/vector/companion/chatbot_logo.svg
   name: Companion
   introTitle: "Companion Uptime Monitor"
-  introMessage: This is a companion uptime monitor for the [**Companion**](https://companion.scaler.com) project.
+  introMessage: This is a companion uptime monitor for the [**Companion**](https://companion.scaler.com) project .
   navbar:
     - title: Status
       href: /
