@@ -6,7 +6,7 @@ sites:
   - name: Companion Frontend
     url: https://companion.scaler.com
   - name: Companion Backend
-    url: https://api.companion.scaler.com
+    url: https://api.companion.scaler.com/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
