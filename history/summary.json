@@ -22,19 +22,20 @@
     "url": "https://api.companion.scaler.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.companion.scaler.com.ico",
     "slug": "companion-backend",
-    "status": "up",
-    "uptime": "36.29%",
-    "uptimeDay": "36.29%",
-    "uptimeWeek": "36.29%",
-    "uptimeMonth": "36.29%",
-    "uptimeYear": "36.29%",
-    "time": 789,
-    "timeDay": 789,
-    "timeWeek": 789,
-    "timeMonth": 789,
-    "timeYear": 789,
+    "status": "down",
+    "uptime": "38.57%",
+    "uptimeDay": "38.57%",
+    "uptimeWeek": "38.57%",
+    "uptimeMonth": "38.57%",
+    "uptimeYear": "38.57%",
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-08-20": 461
+      "2025-08-21": 0,
+      "2025-08-20": 454
     }
   }
 ]
