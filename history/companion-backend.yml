@@ -1,7 +1,7 @@
 url: https://api.companion.scaler.com/api/health
-status: down
-code: 403
-responseTime: 831
-lastUpdated: 2025-08-22T17:25:06.610Z
+status: up
+code: 200
+responseTime: 701
+lastUpdated: 2025-08-22T18:56:49.497Z
 startTime: 2025-08-20T11:44:58.908Z
 generator: Upptime <https://github.com/upptime/upptime>
