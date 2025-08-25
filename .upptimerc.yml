@@ -10,6 +10,12 @@ sites:
     url: https://api.companion.scaler.com/api/docs
     icon: https://companion.scaler.com/favicon.ico
     method: GET
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 403
+      - 404
     headers:
       - "Authorization: Basic ${{ secrets.BACKEND_AUTH }}"
       - "Content-Type: application/json"
