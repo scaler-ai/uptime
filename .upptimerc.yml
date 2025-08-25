@@ -5,8 +5,14 @@ repo: uptime # The name of this repository
 sites:
   - name: Companion Frontend
     url: https://companion.scaler.com
+    icon: https://companion.scaler.com/favicon.ico
   - name: Companion Backend
-    url: https://api.companion.scaler.com/api/health
+    url: https://api.companion.scaler.com/api/docs
+    icon: https://companion.scaler.com/favicon.ico
+    method: GET
+    headers:
+      - "Authorization: Basic ${{ secrets.BACKEND_AUTH }}"
+      - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
