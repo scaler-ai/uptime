@@ -4,18 +4,20 @@
     "url": "https://companion.scaler.com",
     "icon": "https://companion.scaler.com/favicon.ico",
     "slug": "companion-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 663,
+    "timeDay": 249,
     "timeWeek": 527,
     "timeMonth": 487,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 0
+    }
   },
   {
     "name": "Companion Backend",
@@ -23,11 +25,11 @@
     "icon": "https://companion.scaler.com/favicon.ico",
     "slug": "companion-backend",
     "status": "up",
-    "uptime": "67.19%",
+    "uptime": "69.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.19%",
-    "uptimeYear": "67.19%",
+    "uptimeMonth": "69.01%",
+    "uptimeYear": "69.01%",
     "time": 789,
     "timeDay": 811,
     "timeWeek": 794,
