@@ -1,7 +1,7 @@
 url: https://api.companion.scaler.com/api/docs
 status: up
-code: 403
-responseTime: 758
-lastUpdated: 2026-03-01T23:02:48.454Z
+code: 401
+responseTime: 822
+lastUpdated: 2026-03-02T23:03:35.012Z
 startTime: 2025-08-25T05:49:15.748Z
 generator: Upptime <https://github.com/upptime/upptime>
